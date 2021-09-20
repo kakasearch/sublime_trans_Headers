@@ -1,0 +1,2 @@
+# sublime_trans_Headers
+ 将fidder的headers文本格式化为字典
